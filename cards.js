@@ -820,7 +820,7 @@ const allCards = [
     term: "AWS CloudShell",
     answer: "ブラウザから直接使える、AWS CLIがプリインストール済みのマネージド型シェル環境。追加設定なしですぐ使える。",
     section: "8. 開発者ツール関連",
-    tip: "違い: CloudShell＝「コマンド操作」用の手軽なシェル／Cloud9＝「コードを書く」ためのフル機能IDE
+    tip: "違い: CloudShell＝「コマンド操作」用の手軽なシェル／Cloud9＝「コードを書く」ためのフル機能IDE"
   },
   {
     page: 10,
